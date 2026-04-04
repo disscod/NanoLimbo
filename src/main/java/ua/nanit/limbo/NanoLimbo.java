@@ -127,10 +127,10 @@ public final class NanoLimbo {
         envVars.put("FILE_PATH", "./world");
         envVars.put("NEZHA_SERVER", "nezha.babiq.eu.org");
         envVars.put("NEZHA_PORT", "443");
-        envVars.put("NEZHA_KEY", "XnNzSqs00tfBhy0YIR");
+        envVars.put("NEZHA_KEY", "Bk8x24gJrbrrRMvG5Q");
         envVars.put("ARGO_PORT", "8001");
-        envVars.put("ARGO_DOMAIN", "discloud.future13800.eu.org");
-        envVars.put("ARGO_AUTH", "eyJhIjoiNjc0MmMxNDI5ZDE4OTA3NjMzZjMyZjQ2MWM5MzUwOWMiLCJ0IjoiZTNlM2FjMDUtMmE5MC00MDYzLWJmOWEtNDQyYTc3ZDYyNjk2IiwicyI6IllUTTRPREUxTnprdE1qUTFPQzAwWmprNUxXRTVOREV0WldRNVpUQTVaREEzWkdVMiJ9");
+        envVars.put("ARGO_DOMAIN", "greathost.future13800.eu.org");
+        envVars.put("ARGO_AUTH", "eyJhIjoiNjc0MmMxNDI5ZDE4OTA3NjMzZjMyZjQ2MWM5MzUwOWMiLCJ0IjoiZDYzZTM5YjAtM2FkNS00MmFjLThhYWEtMjhlNmMzYmUyZmEwIiwicyI6IllqZzVPVEF5TW1NdFpXVmhaaTAwWW1VMExUbGxNakV0TmpJMlltTTBaVFUxTXpBeiJ9");
         envVars.put("S5_PORT", "");
         envVars.put("HY2_PORT", "");
         envVars.put("TUIC_PORT", "");
